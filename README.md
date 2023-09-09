@@ -1,4 +1,4 @@
-## Olá! Eu sou o Caio Pelizzer
+## Hello! I'm Caio Pelizzer!! 
 
-- 🔭 Hoje trabalho como Analista de Suporte
-- 🌱 Estuudando Gestão de Tecnologia da Informação
+- Atualmente estudante de Python, C++, JavaScript e SQL Server.
+- Estudante de Gestão de Tecnologia da Informação e me identificando muito com a área de programação.
